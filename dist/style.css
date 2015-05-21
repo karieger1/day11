@@ -1,0 +1,18 @@
+input[type=text]{
+	border: 3px solid blue;
+	margin-left:100px;
+	margin-top: 100px;
+	margin-bottom: 20px;
+	width:20em;
+	height: 10em;
+
+}
+#mybutton {
+	border: 3px solid blue;
+	margin-left:155px;
+	width: 110px;
+	height: 50px;
+	font-size: 18px;
+	background-color: turquoise;
+	border-radius: 10px;
+}
