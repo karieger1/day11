@@ -34,4 +34,9 @@ function render() {
   	//not sure i understood the directions of step 5 very well
 }
 
+//my attempt at "hard mode"
+ // Listen for changes in the text field
+ document.addEventListener("change", function() {
+    sessionStorage.setItem("savedStuff", savedStuff.value);
+});
 
